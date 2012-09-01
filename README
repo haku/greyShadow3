@@ -1,0 +1,28 @@
+greyShadow3
+A Gnome 3 theme hacked together by haku.
+
+License:
+ What ever is compatable with the source parts listed below.
+
+Sources:
+- gtk-2.0 modded from DarkRoom modded from Human
+- gtk-3.0 modded from Ambiance Dark modded from Ambiance
+- metacity-1 from DarkRoom modded from Human
+- unity from Elemental Dark (unchanged and untested as I do not use Unity)
+
+Theme's primary colours:
+- window background: #333
+- window foreground: #ddd
+- highlight background: #000
+- highlight foreground: #69F
+- input background: #1A1A1A
+- input foreground: #00B300
+- tooltip background: #555
+- tooltip foreground: #ddd
+
+GTK terms:
+- bg_color = window background
+- fg_color = window foreground
+- base_color = input background
+- text_color = input foreground
+
