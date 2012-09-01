@@ -105,9 +105,9 @@ NautilusFloatingBar .button {
 /* sidebar */
 NautilusWindow .sidebar,
 NautilusWindow .sidebar .view {
-    background-color: shade (@bg_color, 0.95);
+    background-color: shade (@base_color, 0.95);
 
-    color: @fg_color;
+    color: @text_color;
     text-shadow: 0 1 shade (shade (@bg_color, 0.95), 1.04); 
 }
 
