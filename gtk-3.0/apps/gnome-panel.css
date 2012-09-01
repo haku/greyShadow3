@@ -2,11 +2,9 @@
 PanelWidget,
 PanelApplet,
 PanelToplevel {
-    background-image: -gtk-gradient (linear, left top, left bottom,
-                                     from (shade (@dark_bg_color, 1.5)),
-                                     to (shade (@dark_bg_color, 1.05)));
+    background-color: @dark_bg_color;
+    background-image: none;
     padding: 0;
-
     color: @dark_fg_color;
 }
 
@@ -28,16 +26,13 @@ PanelApplet > GtkMenuBar.menubar,
 PanelApplet > GtkMenuBar.menubar.menuitem,
 PanelMenuBar.menubar,
 PanelMenuBar.menubar.menuitem {
-    background-image: -gtk-gradient (linear, left top, left bottom,
-                                     from (shade (@dark_bg_color, 1.5)),
-                                     to (shade (@dark_bg_color, 1.05)));
+    background-color: @dark_bg_color;
+    background-image: none;
 }
 
 PanelAppletFrame { 
     background-color: @dark_bg_color;
-    background-image: -gtk-gradient (linear, left top, left bottom,
-                                     from (shade (@dark_bg_color, 1.5)),
-                                     to (shade (@dark_bg_color, 1.05)));
+    background-image: none;
     border-width: 0;
 }
 
