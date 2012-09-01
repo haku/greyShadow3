@@ -26,3 +26,5 @@ GTK terms:
 - base_color = input background
 - text_color = input foreground
 
+Resources:
+- http://developer.gnome.org/gtk3/3.3/GtkCssProvider.html
