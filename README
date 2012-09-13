@@ -1,14 +1,20 @@
 greyShadow3
-A Gnome 3 theme hacked together by haku.
+ A Gnome 3 theme hacked together by haku.
+ A familiar and practical dark theme for day to day use.
 
 License:
- What ever is compatable with the source parts listed below.
+ Use as you like, though some credit would be nice.
+ Provided as is with no warranty, etc.
+ Please see the licenses of the source parts listed below.
+ All author headers have been left unmodified.
 
 Sources:
 - gtk-2.0 modded from DarkRoom modded from Human
 - gtk-3.0 modded from Ambiance Dark modded from Ambiance
+    [http://gnome-look.org/content/show.php/Ambiance+Dark?content=147513]
 - metacity-1 from DarkRoom modded from Human
 - unity from Elemental Dark (unchanged and untested as I do not use Unity)
+    [http://gnome-look.org/content/show.php/black-element?content=124850]
 
 Theme's primary colours:
 - window background: #333
